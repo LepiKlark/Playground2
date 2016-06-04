@@ -13,6 +13,8 @@ int main()
 
     cout << "Ok this is hopefully only going to be in the child branch" << endl;
 
+    cout << "Ok here goes some more stuff only for child" << endl;
+
     return 0;
 }
 
