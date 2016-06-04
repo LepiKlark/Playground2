@@ -10,6 +10,11 @@ using namespace std;
 int main()
 {
     cout << "this is just stuff for the first checkin" << endl;
+
+    cout << "Ok this is hopefully only going to be in the child branch" << endl;
+
+    cout << "Ok here goes some more stuff only for child" << endl;
+
     return 0;
 }
 
